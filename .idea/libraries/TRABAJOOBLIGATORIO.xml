@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TRABAJOOBLIGATORIO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TRABAJOOBLIGATORIO/dist/TRABAJOOBLIGATORIO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
